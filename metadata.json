@@ -1,0 +1,5 @@
+{
+  "name": "Style Forge",
+  "description": "A Virtual Stylist app powered by Gemini. Upload a clothing item to generate complete outfits (Casual, Business, Night Out) and edit them with AI text prompts.",
+  "requestFramePermissions": []
+}
